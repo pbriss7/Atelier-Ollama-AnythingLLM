@@ -1,0 +1,13 @@
+Analyser cette production écrite d'un étudiant de niveau B1-B2. Le sujet était : "Les réseaux sociaux : avantages et inconvénients pour les jeunes". Longueur attendue : 250-300 mots.
+
+"""
+Les réseaux sociaux est un sujet très important aujourd'hui. Beaucoup de jeunes les utilisent chaque jour pour communiquer avec ses amis et sa famille. Je pense que c'est une bonne chose mais aussi il y a des problèmes.
+
+D'abord, les avantages. Les réseaux sociaux permettent de rester en contact avec les gens qu'on aime, même s'ils habitent loin. Par exemple, moi j'ai des amis qui sont retournés dans leur pays et grâce à Facebook et Instagram, nous pouvons encore parler et partager nos photos. C'est vraiment pratique. Aussi, on peut découvrir des nouvelles choses, comme des événements culturels ou des groupes qui partagent nos intérêts.
+
+Mais il y a aussi des inconvénients. Premièrement, beaucoup de jeunes passent trop de temps sur les réseaux sociaux. Ils regardent leur téléphone tout le temps, même quand ils sont avec des amis en vrai. C'est pas bon pour les relations sociales. Deuxièmement, il y a le problème de la vie privée. Parfois les gens partagent trop d'informations personnelles et ça peut être dangereux. Il y a aussi le cyberharcèlement qui est un problème sérieux.
+
+En conclusion, je crois que les réseaux sociaux sont utiles mais il faut les utiliser avec modération. Les jeunes doivent apprendre à équilibrer leur vie en ligne et leur vie réelle. Les parents et les écoles doivent aussi éduquer les jeunes sur les dangers possibles.
+
+(227 mots)
+"""
