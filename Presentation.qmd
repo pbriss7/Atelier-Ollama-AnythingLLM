@@ -347,9 +347,9 @@ Utilise la convention Markdown pour structurer tes réponses :
 
 # Troisième partie: tester le modèle
 
-Rappel: les textes utilisés dans l'exercice ci-dessous peuvent être récupérés sur GitHub, dans le dossier `Textes - exercice`: <https://github.com/pbriss7/Atelier-Ollama-AnythingLLM>
+**Rappel**: les textes utilisés dans l'exercice ci-dessous peuvent être récupérés sur GitHub, dans le dossier `Textes - exercice`: <https://github.com/pbriss7/Atelier-Ollama-AnythingLLM>
 
-Créez vos premiers agents de la manière suivante:
+**Créez vos premiers agents de la manière suivante**:
 
 1.  Créez deux nouveaux espaces dans AnythingLLM:
 
