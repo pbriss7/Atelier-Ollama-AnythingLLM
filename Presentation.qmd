@@ -129,7 +129,7 @@ Pour **minimiser l’impact environnemental**, je recommande de tester des modè
 
 ## Ajuster la température d’un LLM
 
-Un « token » est une séquence de caractères qui peut correspondre à un mot court ou à une partie de mot. Lorsque nous interagissons avec un LLM, les phrases de nos messages sont « tokenisés », puis transformés en vecteurs numériques denses.
+Un « token » est une séquence de caractères qui peut correspondre à un mot court ou à une partie de mot. Lorsque nous interagissons avec un LLM, les phrases de nos messages sont « tokenisées », puis transformées en vecteurs numériques denses.
 
 Les modèles de langage génèrent du texte en prédisant, token par token, la suite la plus probable d’une séquence. À chaque étape de génération, le modèle calcule une distribution de probabilités pour tous les tokens possibles de son vocabulaire. Le paramètre de **température** modifie cette distribution et influence directement le caractère plus ou moins prévisible des réponses générées.
 
