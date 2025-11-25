@@ -383,7 +383,7 @@ Texte à coller dans l’espace de l’invite:
 
 ------------------------------------------------------------------------
 
-# Pour aller plus loin
+# Pour aller plus loin:
 
 « AI startup Anthropic agrees to pay 1.5bn to settle book piracy lawsuit », *The Guardian*, 5 sept. 2025. <https://www.theguardian.com/technology/2025/sep/05/anthropic-settlement-ai-book-lawsuit>. Consulté le 22 nov. 2025.
 
